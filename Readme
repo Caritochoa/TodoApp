@@ -1,0 +1,8 @@
+
+Este WebApp TODO  pedes crear tareas (todos), seleccionarlas como realizadas, borrar las que ya están hechas o borrar todas.
+elegí realizar backend  con Django-python y el front-end con Bootstrap. 
+
+
+In this web app you can create a list of todos, you can select them as completed, 
+delete the ones that are already completed or erase them all. 
+The weapon of choice was django-python and front-end with Bootstrap.
